@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Boths1229
 - 👀 I’m interested in data science, software developments and machine learning
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on projects related to my areas of interest
+- I am very proficient in Python, SQL and Power Bi for data visualization
+- 🌱 I’m currently undergoing a Data Science bootcamp with Hyperion Dev.
+- 💞️ I’m looking for a junior Data Scince/Analyst role
 - 📫 How to reach me is bd_world29@yahoo.com
 
 <!---
